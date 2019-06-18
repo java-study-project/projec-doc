@@ -8,12 +8,18 @@
 
 ### 前端：使用含有脚手架的前端项目
 
-* antd
-* antd-pro
-* vue
-* element-ui
-* vue-antd
-* vue-antd-pro
+#### REACT
+
+* react[https://react.docschina.org/]
+* antd[https://ant.design/docs/react/introduce-cn]
+* antd-pro[https://pro.ant.design/docs/getting-started-cn]
+
+#### VUE
+
+* vue[https://cn.vuejs.org/]
+* element-ui[https://element.eleme.cn/#/zh-CN/component/installation]
+* vue-antd[https://github.com/vueComponent/ant-design-vue]
+* vue-antd-pro[https://github.com/sendya/ant-design-pro-vue]
 
 ### 后端
 
@@ -38,4 +44,3 @@
 
 * 水平拆分
 * 垂直拆分
-
